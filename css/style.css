@@ -1,0 +1,31 @@
+body{
+	margin: 0 auto;
+}
+.bx-wrapper{
+	border: none !important;
+	max-width: 80% !important;
+	box-shadow: none !important;
+	margin: 0 auto;
+}
+
+.bx-wrapper .bx-pager {
+    bottom: 30px;
+}
+
+.bx-viewport{
+	max-height: 690px;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a{
+	background-color: rgba(255,255,255, 0.6);
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a.active{
+ 	background-color:#fff;
+}
+
+#hero{
+	margin-top: 80px;
+}
+
+
